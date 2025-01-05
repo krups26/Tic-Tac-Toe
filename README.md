@@ -1,5 +1,6 @@
-# Tic-Tac-Toe
+#Tic-Tac-Toe 🎮
 A simple Tic-Tac-Toe game built using Python and Tkinter.
+<p>This is a simple and interactive implementation of the classic Tic-Tac-Toe game, where two players take turns marking spaces in a 3x3 grid to achieve three marks in a row, column, or diagonal. Perfect for learning and fun!</p>
 <br> 
 Two-player mode (Player X and Player O).<br> 
 Displays a message when a player wins.<br> 
